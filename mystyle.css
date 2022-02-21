@@ -1,0 +1,64 @@
+h1{
+    background-color: rgb(168, 215, 200);
+}
+div{
+    padding: 10px;
+    margin: 10px;
+    margin-left: 70px;
+    border: 7px dotted rgb(247, 217, 76);
+}
+#ref{
+    border: 0;
+    margin-top: 0px;
+    margin-left: 70px;
+}
+#jump1{
+    margin-left: 0;
+    border: 0;
+    background-color: rgb(134, 193, 102);
+    position: absolute;
+    left: 0px;
+    top: 115px;
+    width: 40px;
+    padding: 15px;
+}
+#jump2{
+    margin-left: 0;
+    border: 0;
+    background-color: rgb(238, 169, 169);
+    position: absolute;
+    left: 0px;
+    top: 195px;
+    width: 40px;
+    padding: 15px;
+}
+#jump3{
+    margin-left: 0;
+    border: 0;
+    background-color: rgb(120, 194, 196);
+    position: absolute;
+    left: 0px;
+    top: 295px;
+    width: 40px;
+    padding: 15px;
+}
+#jump4{
+    margin-left: 0;
+    border: 0;
+    background-color: rgb(221, 210, 59);
+    position: absolute;
+    left: 0px;
+    top: 415px;
+    width: 40px;
+    padding: 15px;
+}
+#jump5{
+    margin-left: 0;
+    border: 0;
+    background-color: rgb(165, 139, 178);
+    position: absolute;
+    left: 0px;
+    top: 500px;
+    width: 40px;
+    padding: 15px;
+}
